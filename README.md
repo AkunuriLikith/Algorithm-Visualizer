@@ -1,4 +1,4 @@
-Algorithm Visualizer
+#Algorithm Visualizer
 
 This project is an algorithm visualizer built using HTML, CSS, and JavaScript. It allows you to visualize the step-by-step execution of various algorithms, making it easier to understand their inner workings. Whether you're a student learning algorithms or a developer looking to optimize your code, this visualizer can be a valuable tool.
 
